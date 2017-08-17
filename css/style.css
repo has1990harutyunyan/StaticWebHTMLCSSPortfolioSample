@@ -1,0 +1,250 @@
+body {
+    background-image: url("../img/b_coffee.jpg");
+    margin: 0;
+    font-size: 16px;
+}
+
+.main {
+    margin: 0 auto;
+    width: 956px;
+    height: 750px;
+
+}
+
+#header {
+    margin-top: 19px;
+    margin-bottom: 15px;
+    padding: 4px;
+    text-align: center;
+    height: 73px;
+    border-bottom: dashed red;
+    border-top: dotted grey;
+
+}
+
+
+#header ul li {
+    width: 170px;
+    float: left;
+    list-style-type: none;
+}
+
+.nav {
+    height: 160px;
+    margin-bottom: 13px;
+
+}
+
+.nav div {
+    float: left;
+    padding: 34px;
+}
+
+.content {
+    margin-top: 24px;
+    height: 750px;
+    padding-left: 23px;
+    position: relative;
+
+}
+
+.upperContent div {
+    padding: 13px;
+    margin-top: 29px;
+    float: left;
+    margin-bottom: 13px;
+
+}
+
+.dotted {
+    border: dotted thin grey;
+}
+
+.lowerContent div {
+    float: left;
+    margin-left: 29px;
+    margin-right: 15px;
+}
+
+#about {
+    margin-top: 3px;
+    width: 30%;
+    float: left;
+    padding-left: 32px;
+}
+
+p {
+    text-align: justify;
+    color: black;;
+
+}
+
+a, span {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+#vision {
+
+    margin-top: 3px;
+    width: 30%;
+    float: left;
+    padding-left: 32px;
+}
+
+#vision li {
+    list-style-type: none;
+    line-height: 23px;
+    color: black;
+    padding-left: -50px;
+}
+
+#news {
+    margin-top: 10px;
+    width: 300px;
+    float: right;
+}
+
+.article {
+    padding-top: 14px;
+    padding-right: 40px;
+
+}
+
+
+.leftContentAbout {
+    width: 350px;
+    float: left;
+    height: 600px;
+
+}
+
+.leftContentAbout div {
+    padding: 10px;
+
+}
+
+.pic img {
+    width: 308px;
+    padding-left: 9px;
+}
+
+.edu {
+    margin-top: 34px;
+}
+
+.rightContentAbout {
+    width: 565px;
+    height: 600px;
+    float: left;
+    margin-left: 13px;
+    margin-right: 2px;
+
+}
+
+.aboutMe div {
+    text-align: left;
+    padding: 5px;
+
+}
+
+.designExperience {
+    margin-top: 103px;
+}
+
+.designExperience img {
+    padding-bottom: 9px;
+}
+
+.designExperience div {
+    line-height: 4px;
+}
+
+.right {
+    padding-top: 8px;
+    text-align: center;
+    width: 230px;
+    float: left;
+    border: thin;
+}
+
+.right h4 {
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+.footer {
+    margin: 0 auto;
+    width: 956px;
+    height: 1px;
+}
+
+.footer img {
+    margin-top: 12px;
+    width: 950px;
+    height: 100px;
+
+}
+
+.footer {
+    margin-top: 190px;
+    padding-bottom: 50px;
+}
+
+.footerLeft {
+    text-align: left;
+    float: left;
+
+}
+
+.footer p {
+    color: brown;
+    font-weight: bold;
+}
+
+.footer span {
+    color: black;
+    font-weight: bold;
+}
+
+.footerRight {
+    float: right;
+}
+
+.footerRight img {
+    width: 60px;
+    height: 40px;
+}
+
+.leftContentPortfolio {
+    margin-top: 21px;
+    width: 300px;
+    height: 700px;
+    text-align: center;
+    float: left;
+}
+
+.leftContentPortfolio ul li {
+    text-align: left;
+    list-style-type: none;
+    line-height: 20px;
+}
+
+.rightContentPortfolio {
+    margin-top: 25px;
+    float: left;
+    width: 600px;
+    height: 700px;
+    text-align: center;
+}
+
+.rightContentPortfolio img {
+    padding-bottom: 36px;
+}
+
+
+
+
+
+
+
